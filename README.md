@@ -11,7 +11,7 @@ Codebasics challenge 10 IPL match
 ![alt text](9.png)
 ![alt text](10.png)
 ![alt text](11.png)
-![alt text](12.png)
+
 
 
 
